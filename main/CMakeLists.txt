@@ -77,8 +77,8 @@ include_directories(
   ${OBSERVABLE_DIR}
   ${GENSRC}/app
   ${CMAKE_CURRENT_SOURCE_DIR}/../freetype/include
-  ${CMAKE_CURRENT_SOURCE_DIR}/../SDL2_png/include
-  ${CMAKE_CURRENT_SOURCE_DIR}/../SDL2_jpeg/include
+  ${CMAKE_CURRENT_SOURCE_DIR}/../SDL_png/include
+  ${CMAKE_CURRENT_SOURCE_DIR}/../SDL_jpeg/include
   ${CMAKE_CURRENT_SOURCE_DIR}/../giflib/
 )
 
